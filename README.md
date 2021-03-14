@@ -1,9 +1,10 @@
 
-##Hi there, 🙋🏾‍♂️ I'm Emmanuel. ( @edehemma09).
+#Hi there, 🙋🏾‍♂️ I'm Emmanuel. ( @edehemma09).
 - 👀 I’m interested in SaaS
 
-###Talking about personal Stuffs:
- ✍️ Improving my technical writing , business and communication skills  
+#Talking about personal Stuffs:
+
+-  ✍️ Improving my technical writing , business and communication skills  
 -  🌱 I’m currently learning javascript  
 -  💡 I'm currently working on E-estate search/management web app
 -  🚀 learning more about; JS, CSS;
