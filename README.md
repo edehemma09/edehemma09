@@ -32,9 +32,6 @@
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="snowwhite-boss" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicholaschibueze&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="snowwhite-boss" align = "center"/></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snowwhite-boss&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Nicholaschibueze" /></p>
-
 
 
 <summary><b>📊 Github Contribution Graph</b></summary>
@@ -49,7 +46,3 @@
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edehemma09&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <br>
-
-
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=edehemma09&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
