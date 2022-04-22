@@ -37,7 +37,7 @@
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edehemma09&theme=github_dark" alt="edehemma09" align = "center"/></p>
+<p align="center"><img height="180em" width="970px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edehemma09&theme=github_dark" alt="edehemma09" align = "center"/></p>
 
 
 <summary><b>⚡ Github Stats</b></summary>
