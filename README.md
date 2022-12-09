@@ -5,11 +5,13 @@
 #Talking about personal Stuffs:
 
 * 🌍  I'm based in Ngeria
--  ✍️ Improving my technical writing ,content writing, business and communication skills  
+-  ✍️ Improving my technical writing ,content writing, business and communication skills 
+-  💡  A professional wordpress developer. 
 -  🌱 I’m currently on the learning phase of understanding web 3.0
 -  🧠  I'm learning ReactJs
 -  💡 I'm currently working on being React dev
 -  🚀 learning more about; Pentesting ;
+-  🎊 Handled Volunteering Jobs from NGO, Catchafire, Orphangehome etc.
 -  🎊 fun-fact: Just because you don't understand the way somebody feels, doesn't mean their emotions are invalid.
 -  🎯 looking forward to being an expert as a Pen-Tester & Cyber Security Specialist
 -  💞 Love collaboration on cool projects;
