@@ -4,8 +4,8 @@
 
 #Talking about personal Stuffs:
 
-* 🌍  I'm based in Ngeria
--  ✍️ Improving my technical writing ,content writing, business and communication skills 
+* 🌍  I'm from in Ngeria
+-  ✍️ Improving my business proposal writing , technical writing ,content writing, business and communication skills 
 -  💡  A professional wordpress developer. 
 -  🌱 I’m currently on the learning phase of understanding web 3.0
 -  🧠  I'm learning ReactJs
@@ -17,7 +17,7 @@
 -  💞 Love collaboration on cool projects;
  ✉️  You can contact me at [edehemmanuelebubechukwu@gmail.com](mailto:edehemmanuelebubechukwu@gmail.com)
 -  💬 Ask me about anything, I am happy to help;
--  I Have been in the tech industry for 6years but has 3years hands-on experience.
+-  I Have been in the tech industry for 7years but has 6years hands-on experience.
 
 
 *🤝  I'm open to collaborating on Content Writing, System Technical Writing,
