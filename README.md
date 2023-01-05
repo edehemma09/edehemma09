@@ -45,7 +45,7 @@
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=edehemma09&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="edehemma09" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edehemma09&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="edehemma09" align = "center"/></p>
-<a href="https://github.com/edehemma09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edehemma09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edehemma09&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="edehemma09" /></p>
