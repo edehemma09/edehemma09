@@ -4,23 +4,24 @@
 
 #Talking about personal Stuffs:
 
-* 🌍  I'm from in Ngeria
--  ✍️ Improving my business proposal writing , technical writing ,content writing, business and communication skills 
--  💡  A professional wordpress developer. 
+* 🌍  I'm from Ngeria
+* 🌍 I will love to explore the World as Tech Savvy.	
+-  ✍️ Improving my Social Engineering skills, Critical thinking ability , technical writing ,content writing, communication skills, Technical Support skill. 
+-  💡  A professional wordpress Web developer with 5years experience. 
 -  🌱 I’m currently on the learning phase of understanding web 3.0
--  🧠  I'm learning ReactJs
+-  🧠  I'm learning ReactJs, alongside with the likes Plasmic platform
 -  💡 I'm currently working on being React dev
--  🚀 learning more about; Pentesting ;
--  🎊 Handled Volunteering Jobs from NGO, Catchafire, Orphangehome etc.
+-  🚀 learning more about; Pentesting, advancing more in using tools like Burpsuite, Nmap, Medussa, SETools, RATs.
+-  🎊 Handled Volunteering Jobs from NGOs, Catchafire, Orphangehome, theCraterLibrary, Missionaries etc.
 -  🎊 fun-fact: Just because you don't understand the way somebody feels, doesn't mean their emotions are invalid.
--  🎯 looking forward to being an expert as a Pen-Tester & Cyber Security Specialist
+-  🎯 looking forward to being an expert as a Pen-Tester & Cyber Security Specialist also an IT Specialist
 -  💞 Love collaboration on cool projects;
  ✉️  You can contact me at [edehemmanuelebubechukwu@gmail.com](mailto:edehemmanuelebubechukwu@gmail.com)
 -  💬 Ask me about anything, I am happy to help;
 -  I Have been in the tech industry for 7years but has 6years hands-on experience.
 
 
-*🤝  I'm open to collaborating on Content Writing, System Technical Writing,
+*🤝  I'm open to collaborating on Content Writing, System Technical Writing, Technical Support, Idea Collaboration, Wordpress Web Development, React Web Development... etc
 
 ### Skills
 
