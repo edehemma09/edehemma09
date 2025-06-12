@@ -1,16 +1,15 @@
 
 #Hi there, 🙋🏾‍♂️ I'm Emmanuel. ( @edehemma09).
-- 👀 I’m interested in Web 3.0, Cloud Computing;
+- 👀 I’m interested in AI in Wordpress, AI Automation;
 
 #Talking about personal Stuffs:
 
-* 🌍  I'm from Ngeria
 * 🌍 I will love to explore the World as Tech Savvy.	
 -  ✍️ Improving my Social Engineering skills, Critical thinking ability , technical writing ,content writing, communication skills, Technical Support skill. 
--  💡  A professional wordpress Web developer with 5years experience. 
--  🌱 I’m currently on the learning phase of understanding web 3.0
--  🧠  I'm learning ReactJs, alongside with the likes Plasmic platform
--  💡 I'm currently working on being React dev
+-  💡  A professional wordpress Web developer with 5years+ experience. 
+-  🌱 I’m currently on the Advance phase of AI in Wordpress Enviroment
+-  🧠  I'm No code Platform for wordpress autmation with the likes AI integration platform
+-  💡 I'm currently working on being Senior Consultant in Wordpress Development
 -  🚀 learning more about; Pentesting, advancing more in using tools like Burpsuite, Nmap, Medussa, SETools, RATs.
 -  🎊 Handled Volunteering Jobs from NGOs, Catchafire, Orphangehome, theCraterLibrary, Missionaries etc.
 -  🎊 fun-fact: Just because you don't understand the way somebody feels, doesn't mean their emotions are invalid.
@@ -36,6 +35,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+	
 </p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
