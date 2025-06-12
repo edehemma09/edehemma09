@@ -29,13 +29,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/Wordpress" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="46" height="36" alt="Wordpress" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="36" height="36" alt="Figma" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="36" height="36" alt="Figma" /></a>
 
 	
 </p>
@@ -46,10 +46,10 @@
 <p align="center"><img height="180em" width="970px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edehemma09&theme=github_dark" alt="edehemma09" align = "center"/></p>
 
 
-<!-- <summary><b>⚡ Github Stats</b></summary>
+ <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=edehemma09&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="edehemma09" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edehemma09&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="edehemma09" align = "center"/></p>
- -->
+ 
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edehemma09&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="edehemma09" /></p>
