@@ -17,7 +17,7 @@
 -  💞 Love collaboration on cool projects;
  ✉️  You can contact me at [edehemmanuelebubechukwu@gmail.com](mailto:edehemmanuelebubechukwu@gmail.com)
 -  💬 Ask me about anything, I am happy to help;
--  I Have been in the tech industry for 7years but has 6years hands-on experience.
+-  I Have been in the tech industry for 10years hands-on experience.
 
 
 *🤝  I'm open to collaborating on Content Writing, System Technical Writing, Technical Support, Idea Collaboration, Wordpress Web Development, React Web Development... etc
