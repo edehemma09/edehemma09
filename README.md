@@ -45,10 +45,6 @@
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" width="970px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edehemma09&theme=github_dark" alt="edehemma09" align = "center"/></p>
 
-
- <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=edehemma09&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="edehemma09" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edehemma09&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="edehemma09" align = "center"/></p>
  
 
  <summary><b>🔥 Github Streaks</b></summary>
